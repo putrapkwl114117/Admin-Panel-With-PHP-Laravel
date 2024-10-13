@@ -62,7 +62,7 @@ Instalasi dan Setup:
 
 Clone repositori ini:
 
-git clone https://github.com/putra-1234/Admin-Panel---Laravel.git
+git clone [https://github.com/putra-1234/Admin-Panel---Laravel.git](https://github.com/putrapkwl114117/Admin-Panel-With-PHP-Laravel.git)
 Pindah ke direktori proyek dan instal dependency:
 cd nama_repo
 composer install
